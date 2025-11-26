@@ -36,7 +36,7 @@
           font-weight:600;">
   <img src="https://storage.ko-fi.com/cdn/cup-border.png" 
        alt="Ko-fi" style="height:22px;width:22px;">
-  Keep the ideas brewing — Ko-fi me!
+  — Ko-fi me!
 </a>
 
 
