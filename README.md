@@ -31,12 +31,12 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/tahamehjabin" target="_blank" rel="noopener noreferrer"
-   style="display:inline-flex;align-items:center;gap:10px;padding:10px 18px;
-          border-radius:10px;background:#FF5E5B;color:#fff;text-decoration:none;
+   style="display:inline-flex; align-items:center; gap:10px; padding:10px 18px;
+          border-radius:10px; background:#FF5E5B; color:#fff; text-decoration:none;
           font-weight:600;">
-  <img src="https://storage.ko-fi.com/cdn/cup-border.png" 
-       alt="Ko-fi" style="height:22px;width:22px;">
-  — Ko-fi me!
+  <img src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Ko-fi" 
+       style="height:22px; width:22px;">
+  Ko-fi me
 </a>
 
 
