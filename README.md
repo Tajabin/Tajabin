@@ -33,5 +33,5 @@
 <p>
     <a href="https://buymeacoffee.com/jabin" target="_blank">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Taha Mehjabin" /></a></p><br><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tajabin&show_icons=true&locale=en&layout=compact" alt="tajabin" /></p>
+
 
