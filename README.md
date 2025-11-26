@@ -31,6 +31,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/tahamehjabin" target="_blank">
-  <img align="left" src="https://storage.ko-fi.com/cdn/kofi3.png" height="50" width="210" alt="Taha Mehjabin" /></a><p>Keep the ideas brewing — Ko-fi me!</p><br><br>
+  <img align="left" src="https://storage.ko-fi.com/cdn/kofi3.png" height="50" width="210" alt="Taha Mehjabin" /></a><br><br>
 
 
