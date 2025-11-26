@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola! 😊😎,I'm Taha Mehjabin</h1>
+<h1 align="center">Hola! 😊😎, I'm Taha Mehjabin</h1>
 <h3 align="center">A passionate coder</h3>
  <img align="right" alt="Working Penguin GIF"width="400" src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAC/work-internet.gif">
 
