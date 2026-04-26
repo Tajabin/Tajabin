@@ -1,5 +1,7 @@
 <h1 align="center">Hola! 😊😎, I'm Taha Mehjabin</h1>
-<h3 align="center">A passionate coder 💻</h3>
+<h3 align="center" style="font-family: 'Dancing Script', cursive; font-size: 2em;">
+  <em>A passionate coder 💻</em>
+</h3>
 
 <img align="right" alt="Working GIF" width="320" src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAC/work-internet.gif"/>
 
