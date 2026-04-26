@@ -21,20 +21,19 @@
 - 📫 How to reach me: **marvime660@gmail.com**  
 - 😁 Fun fact: *I think I am way too cool!*  
 
----
-
 ### 🌐 Connect with me:
+
 <p align="left">
   <a href="https://x.com/MehjabinTa16200" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="35" width="35"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/taha-mehjabin-hi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" width="35"/>
   </a>
 </p>
-
----
 
 ### 🛠️ Languages and Tools:
 
