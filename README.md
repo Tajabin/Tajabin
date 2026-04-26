@@ -1,15 +1,15 @@
 <h1 align="center">Hola! 😊😎, I'm Taha Mehjabin</h1>
-<h3 align="center">A passionate coder</h3>
+<h3 align="center">A passionate coder 💻</h3>
 
 <img align="right" alt="Working GIF" width="320" src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAC/work-internet.gif"/>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tajabin&label=Profile%20views&color=ff69b4&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=tajabin&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="left">
   <a href="https://x.com/MehjabinTa16200" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/mehjabin?logo=twitter&style=for-the-badge&color=1DA1F2" />
+    <img src="https://img.shields.io/twitter/follow/mehjabin?logo=twitter&style=for-the-badge" />
   </a>
 </p>
 
@@ -23,31 +23,21 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━-ff4dd2?style=for-the-badge"/>
-</p>
-
 ### 🌐 Connect with me:
 
 <p align="left">
   <a href="https://x.com/MehjabinTa16200" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg"
-    height="35" width="35"
-    style="filter: drop-shadow(0 0 4px #1DA1F2);" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" height="35" width="35"/>
   </a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/taha-mehjabin-hi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg"
-    height="35" width="35"
-    style="filter: drop-shadow(0 0 4px #0A66C2);" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" height="35" width="35"/>
   </a>
 </p>
 
 ---
-
-
 
 ### 🛠️ Languages and Tools:
 
@@ -74,12 +64,10 @@
 
 ---
 
-
-
 ### ☕ Support:
 
 <p align="left">
   <a href="https://ko-fi.com/tahamehjabin">
-    <img src="https://img.shields.io/badge/Support%20Me-ff4dd2?style=for-the-badge"/>
+    <img src="https://storage.ko-fi.com/cdn/cup-border.png" height="40"/>
   </a>
 </p>
