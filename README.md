@@ -25,7 +25,7 @@
 
 <p align="left">
   <a href="https://x.com/MehjabinTa16200" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="35" width="35"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" height="35" width="35"/>
   </a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;
