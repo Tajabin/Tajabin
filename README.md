@@ -1,11 +1,8 @@
 <h1 align="center">Hola! 😊😎, I'm Taha Mehjabin</h1>
 <h3 align="center">A passionate coder 💻</h3>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAC/work-internet.gif" width="300" alt="Working Penguin GIF"/>
-</p>
-
-<p align="center">
+<p align="center"> <img src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAC/work-internet.gif" width="300" alt="Working Penguin GIF"/>
+</p><p align="center">
   <img src="https://komarev.com/ghpvc/?username=tajabin&label=Profile%20views&color=0e75b6&style=flat" alt="tajabin" />
 </p>
 
@@ -26,8 +23,16 @@
 ---
 
 ### 🌐 Connect with Me
-<p align="center">
-  <a href="https://x.com/MehjabinTa16200"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/> </a>  <a href="https://www.linkedin.com/in/taha-mehjabin-hi"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/> </a>
+<h3 align="left">Connect with me:</h3>
+
+<p>
+  <a href="https://x.com/MehjabinTa16200" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/taha-mehjabin-hi" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
 </p>
 
 ---
