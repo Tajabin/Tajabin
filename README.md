@@ -25,11 +25,19 @@
 ### 🌐 Connect with Me
 <h3 align="left">Connect with me:</h3>
 
-<p>  <a href="https://x.com/MehjabinTa16200" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-  </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/taha-mehjabin-hi" target="_blank">  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked- in-alt.svg" height="30" width="40"/></a>
+<p align="left">
+  <a href="https://x.com/MehjabinTa16200" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="25" width="30" />
+    MehjabinTa16200
+  </a>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/taha-mehjabin-hi" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="30" />
+    Taha Mehjabin
+  </a>
 </p>
-
----
 
 ### 🛠️ Languages & Tools
 <p align="center">
