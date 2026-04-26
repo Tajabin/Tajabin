@@ -47,9 +47,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━-ff69b4?style=for-the-badge"/>
-</p>
+
 
 ### 🛠️ Languages and Tools:
 
@@ -76,9 +74,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━-00d4ff?style=for-the-badge"/>
-</p>
+
 
 ### ☕ Support:
 
